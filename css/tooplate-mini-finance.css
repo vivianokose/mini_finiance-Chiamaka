@@ -1147,3 +1147,9 @@ strong {
   }
 }
 
+footer {
+  font-size: 15px;
+  background-color: #f8f9fa;
+  color: #333;
+  padding: 12px;
+}
