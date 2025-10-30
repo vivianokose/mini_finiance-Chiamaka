@@ -14,5 +14,10 @@ Ship a visible Mini Finance footer (version + date + author) to EC2 and document
 	- Verified responsive layout on mobile and desktop.
 	- Passed AA contrast ratio test (manual visual check).
 - **Day 4:** Added revision hash and /healthz endpoint.
+	- Added `/healthz.html` returning “OK” to verify site uptime.
+	- Tested via browser and curl command.
+	- Deployed successfully to EC2.
 - **Day 5:** Recorded demo and captured Burndown Chart.
-
+    - Recorded final 2–3 min demo of deployed EC2 instance.
+    - Shared reflections in Jira: what went well, what to improve, pillar/value.
+    - Captured Jira board and burndown chart for final submission.
