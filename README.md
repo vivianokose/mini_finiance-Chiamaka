@@ -10,6 +10,9 @@ Ship a visible Mini Finance footer (version + date + author) to EC2 and document
 	- Footer now updates automatically each deployment.
 	- Verified on EC2 and updated README with code snippet.
 - **Day 3:** Improved accessibility (contrast, spacing).
+	- Adjusted font size and background for better contrast.
+	- Verified responsive layout on mobile and desktop.
+	- Passed AA contrast ratio test (manual visual check).
 - **Day 4:** Added revision hash and /healthz endpoint.
 - **Day 5:** Recorded demo and captured Burndown Chart.
 
